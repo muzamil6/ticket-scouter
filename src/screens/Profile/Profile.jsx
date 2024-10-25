@@ -52,7 +52,7 @@ const Profile = ({navigation}) => {
                 }}
               />
               <View style={styles.textContainer}>
-                <Text style={styles.nameText}>Muhammad Muzamil</Text>
+                <Text style={styles.nameText}>Muzamil Khan</Text>
                 <Text style={styles.usernameText}>@muzamil12</Text>
               </View>
               <TouchableOpacity
