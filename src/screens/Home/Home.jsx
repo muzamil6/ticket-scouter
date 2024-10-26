@@ -19,7 +19,6 @@ import cardTwo from '../../assets/CardImages/cardTwo.jpg';
 import cardThree from '../../assets/CardImages/card3.png';
 import cardFour from '../../assets/CardImages/card4.png';
 import notificationIcon from '../../assets/Icons/profile/icon.png';
-import Icon from 'react-native-vector-icons/FontAwesome5';
 import Icon2 from 'react-native-vector-icons/MaterialIcons';
 import Icon3 from 'react-native-vector-icons/FontAwesome';
 export default function Home({navigation}) {
