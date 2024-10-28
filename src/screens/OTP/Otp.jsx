@@ -58,12 +58,6 @@ const Otp = ({navigation, route}) => {
   };
 
   const handleAgree = () => {
-    // const formData = {
-    //     email: UserInfo.email,
-    //     password: UserInfo.password,
-    //     full_name: UserInfo.fullName
-    // }
-
     // axios.post(`${global.backendUrl}/users`, formData)
     //     .then((response) => {
     setModalVisible(false);
