@@ -61,10 +61,6 @@ const Otp = ({navigation, route}) => {
     // axios.post(`${global.backendUrl}/users`, formData)
     //     .then((response) => {
     setModalVisible(false);
-    //     navigation.navigate("SignIn")
-    // }).catch((err) => {
-    //     console.log(err)
-    // })
   };
 
   const handleResend = () => {
