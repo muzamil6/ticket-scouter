@@ -62,7 +62,6 @@ const Otp = ({navigation, route}) => {
     //     .then((response) => {
     setModalVisible(false);
   };
-
   const handleResend = () => {
     // setisLoading(true)
     // const formData = { to: UserInfo.email, subject: "Verification Email", body: `Your Verification OTP is <h1>${UserInfo.otp}</h1>` }
