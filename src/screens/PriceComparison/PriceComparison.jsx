@@ -444,7 +444,6 @@ const styles = StyleSheet.create({
   },
   h1: {
     fontSize: 17,
-    // fontWeight: 'bold',
     color: 'black',
     fontFamily: 'Aeonik-Bold',
   },
